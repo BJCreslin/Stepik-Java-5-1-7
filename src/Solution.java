@@ -2,6 +2,9 @@ import java.io.File;
 
 /**
  * Created by kvu on 17.08.2017.
+ *
+ *  stepik-Java-5-1-7
+ *  код к решению задачи: Найдите среди приведенных путей два эквивалентных, то есть указывающих на один и тот же файл.
  */
 public class Solution {
     public static void main(String[] args) {
